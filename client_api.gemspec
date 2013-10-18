@@ -29,6 +29,9 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'faraday_middleware', '~> 0.9.0'
   spec.add_dependency 'net-http-persistent'
+  spec.add_dependency "activesupport"
+  spec.add_dependency "json"
+  spec.add_dependency "multi_xml"
   #spec.add_runtime_dependency 'faraday_middleware', '~> 0.9.0'
   #spec.add_runtime_dependency 'net-http-persistent'
 
@@ -38,8 +41,8 @@ Gem::Specification.new do |spec|
 
   # for some reason, the following gems that faraday_middleware gem depends on are not loaded in rspec test
   # have to specify the dependency here
-  spec.add_development_dependency "activesupport"
-  spec.add_development_dependency "json"
-  spec.add_development_dependency "multi_xml"
+  #spec.add_development_dependency "activesupport"
+  #spec.add_development_dependency "json"
+  #spec.add_development_dependency "multi_xml"
 
 end

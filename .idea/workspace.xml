@@ -75,7 +75,7 @@
     <file path="/api_spec.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382068859043" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/config.ru" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452481572" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/views/administration/index.rhtml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452481572" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/Gemfile" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452481572" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/Gemfile" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382071760253" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/tools/ad_hoc_scripts/import_warranty_claims.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/db/schema.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382054105933" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/controllers/claim_controller.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
@@ -97,7 +97,7 @@
     <file path="/doc_object.txt" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381885445488" ignored="false" />
     <file path="/spec_helper.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381898336267" ignored="false" />
     <file path="/client_api_test.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381902275877" ignored="false" />
-    <file path="/Gemfile" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381902446033" ignored="false" />
+    <file path="/Gemfile" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382071741247" ignored="false" />
     <file path="/doc_object_body.txt" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381965704679" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/admin/documents.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381970675901" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims_document.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381970675901" ignored="false" />
@@ -145,7 +145,7 @@
     <favorites_list name="client_api" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.38262194">
+    <splitter split-orientation="vertical" split-proportion="0.3628049">
       <split-first>
         <leaf>
           <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
@@ -175,10 +175,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="api_spec.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="api_spec.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/client_api/api_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="42" column="40" selection-start="2017" selection-end="2017" vertical-scroll-proportion="2.173913">
+                <state line="3" column="39" selection-start="89" selection-end="89" vertical-scroll-proportion="0.23195876">
                   <folding />
                 </state>
               </provider>
@@ -200,7 +200,7 @@
           <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Gemfile.lock">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="18" column="3" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+                <state line="18" column="3" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -224,10 +224,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="client_api.gemspec" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="client_api.gemspec" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/client_api.gemspec">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="7" column="35" selection-start="244" selection-end="244" vertical-scroll-proportion="0.30612245">
+                <state line="42" column="4" selection-start="1508" selection-end="1508" vertical-scroll-proportion="0.64044946">
                   <folding />
                 </state>
               </provider>
@@ -295,13 +295,13 @@
         <option value="$PROJECT_DIR$/test/integration/client_api_test.rb" />
         <option value="$PROJECT_DIR$/test/test_helper.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/client_api.gemspec" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/spec/fixtures/doc_object_body.txt" />
         <option value="$PROJECT_DIR$/lib/client_api/client.rb" />
         <option value="$PROJECT_DIR$/lib/client_api.rb" />
         <option value="$PROJECT_DIR$/lib/client_api/api.rb" />
         <option value="$PROJECT_DIR$/spec/client_api/api_spec.rb" />
+        <option value="$PROJECT_DIR$/client_api.gemspec" />
       </list>
     </option>
   </component>
@@ -616,9 +616,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <RunnerSettings RunnerId="RubyDebugRunner" />
       <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
@@ -762,8 +760,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="34" width="1854" height="1056" extended-state="1" />
-    <editor active="false" />
+    <frame x="66" y="34" width="1854" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -911,7 +909,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="3" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+        <state line="18" column="3" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -951,16 +949,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/client_api/api_spec.rb">
+    <entry file="file://$PROJECT_DIR$/client_api.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="40" selection-start="2017" selection-end="2017" vertical-scroll-proportion="2.173913">
+        <state line="42" column="4" selection-start="1508" selection-end="1508" vertical-scroll-proportion="0.64044946">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client_api.gemspec">
+    <entry file="file://$PROJECT_DIR$/spec/client_api/api_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="35" selection-start="244" selection-end="244" vertical-scroll-proportion="0.30612245">
+        <state line="3" column="39" selection-start="89" selection-end="89" vertical-scroll-proportion="0.23195876">
           <folding />
         </state>
       </provider>
