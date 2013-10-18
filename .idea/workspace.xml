@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="PASSWORD" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="TEST_STATUS_BUILD_TYPE_IDS" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="PROJECT_STATUS_DIALOG_SPLITTER_DIVIDER_LOCATION" value="500" />
+    <option name="CHANGES_STATUS_DIALOG_SPLITTER_DIVIDER_LOCATION" value="500" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" name="Default" comment="" />
+    <ignored path="client_api.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/client_api.gemspec" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381894815450" ignored="false" />
+    <file path="/client_api.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382068986644" ignored="false" />
+    <file path="$PROJECT_DIR$/../client_app/api.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382068316361" ignored="false" />
+    <file path="/api.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382068881276" ignored="false" />
+    <file path="/a.dummy" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382065973994" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/admin/dashboards.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305906" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/uploaded_document.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305906" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/helpers/handle_bank_file.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305906" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/gl_account.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305906" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/ability.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381375503993" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/helpers/handle_accredo_file.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305906" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/helpers/accredo_batch.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381370301758" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/Gemfile" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/admin/claim_warranties.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/config/initializers/monkey_patch.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/mailers/notifier.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/admin/financial_transactions.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381375822836" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/policy_refund.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/account.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/user.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/claim_express/update_warranty_payment.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/admin/policy_refunds.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/financial_transaction.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381375503993" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/models/gl_interface.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381369305907" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/config/database.yml.example" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381370339864" ignored="false" />
+    <file path="/Dummy.txt" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381974285854" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/config/database.yml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381370945101" ignored="false" />
+    <file path="/database.yml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381370945101" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/coverage/index.html" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381371498001" ignored="false" />
+    <file path="$PROJECT_DIR$/../cash_cow/app/documents/cheque.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381375503993" ignored="false" />
+    <file path="dbtable:/a90ff654/8da9fa78-3e88-4e97-b5fb-774422d82229/courier_development.dbo.documents" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381709888451" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/api/documents/apiv1.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381971053789" ignored="false" />
+    <file path="/fragment.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382068797010" ignored="false" />
+    <file path="dbtable:/a90ff654/8da9fa78-3e88-4e97-b5fb-774422d82229/courier_development.dbo.users" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381446378879" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/api/helpers/api_helper.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382067533252" ignored="false" />
+    <file path="/api_helper.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382067487112" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/spec/requests/api_spec.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381451515677" ignored="false" />
+    <file path="/api_spec.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382068859043" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/config.ru" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452481572" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/administration/index.rhtml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452481572" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/Gemfile" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452481572" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/tools/ad_hoc_scripts/import_warranty_claims.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/db/schema.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382054105933" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/controllers/claim_controller.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/config/environments/development.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/jobs/update_contractor_details_job.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/controllers/administration_controller.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/contractor_detail.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/config/routes.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/tools/reports/ad_hoc_reports/update_contractor_details.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/controllers/contractor_details_controller.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/notifier.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/config/initializers/mail.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381452494333" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/config/database.yml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382053201797" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/claim/_menu.rhtml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382055558632" ignored="false" />
+    <file path="/_menu.rhtml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382055555749" ignored="false" />
+    <file path="/client.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381980781834" ignored="false" />
+    <file path="/apiv1.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381878938462" ignored="false" />
+    <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.users" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381716414491" ignored="false" />
+    <file path="/doc_object.txt" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381885445488" ignored="false" />
+    <file path="/spec_helper.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381898336267" ignored="false" />
+    <file path="/client_api_test.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381902275877" ignored="false" />
+    <file path="/Gemfile" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381902446033" ignored="false" />
+    <file path="/doc_object_body.txt" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381965704679" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/admin/documents.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381970675901" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/models/documents/claims_document.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381970675901" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/Gemfile" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381970675901" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/_form.html.erb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381970885930" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/spec/spec_helper.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381971053789" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/api/api.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381971053789" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/config/routes.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381970675901" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/spec/api_spec_helper.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381972837440" ignored="false" />
+    <file path="/api_spec_helper.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1381972394667" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/db/migrate/20131017234012_add_standard_letter.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382053341063" ignored="false" />
+    <file path="/20131017234012_add_standard_letter.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382053314657" ignored="false" />
+    <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.task_details" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382053912340" ignored="false" />
+    <file path="/standard_letter_task.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382062384735" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/tasks/standard_letter_task.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382062396747" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/controllers/tasks/standard_letter_controller.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382063917256" ignored="false" />
+    <file path="/standard_letter_controller.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382063907528" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/courier/api.rb" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382060758121" ignored="false" />
+    <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.contractor_details" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382063142257" ignored="false" />
+    <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.constants" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382063179252" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/task/standard_letter.rhtml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382064153522" ignored="false" />
+    <file path="/standard_letter.rhtml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382064153522" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/task/_upload_letter_types.rhtml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382065235453" ignored="false" />
+    <file path="/_upload_letter_types.rhtml" changelist="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" time="1382065235453" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="client_api" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.38262194">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gemfile">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="15" column="22" selection-start="232" selection-end="398" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="rubygems_integration.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@global/gems/bundler-1.2.2/lib/bundler/rubygems_integration.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="146" column="0" selection-start="2839" selection-end="2839" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="net_http.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/webmock-1.15.0/lib/webmock/http_lib_adapters/net_http.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="104" column="47" selection-start="4064" selection-end="4064" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="api_spec.rb" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spec/client_api/api_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="42" column="40" selection-start="2017" selection-end="2017" vertical-scroll-proportion="2.173913">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="client_api.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="45" column="42" selection-start="1015" selection-end="1015" vertical-scroll-proportion="7.225806">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="18" column="3" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="rspec.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/webmock-1.15.0/lib/webmock/rspec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="14" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="client_api.gemspec" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/client_api.gemspec">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="7" column="35" selection-start="244" selection-end="244" vertical-scroll-proportion="0.30612245">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="api.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/client_api/api.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="53" column="32" selection-start="1608" selection-end="1608" vertical-scroll-proportion="-0.9677419">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="connection.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/faraday-0.8.8/lib/faraday/connection.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="builder.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/faraday-0.8.8/lib/faraday/builder.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="77" column="0" selection-start="1978" selection-end="1978" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="doc_object.txt" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/fixtures/doc_object.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="17" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="middleware.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/faraday-0.8.8/lib/faraday/middleware.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="69" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/client_api/version.rb" />
+        <option value="$PROJECT_DIR$/spec/fixtures/doc_object.txt" />
+        <option value="$PROJECT_DIR$/test/integration/client_api_test.rb" />
+        <option value="$PROJECT_DIR$/test/test_helper.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/client_api.gemspec" />
+        <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
+        <option value="$PROJECT_DIR$/spec/fixtures/doc_object_body.txt" />
+        <option value="$PROJECT_DIR$/lib/client_api/client.rb" />
+        <option value="$PROJECT_DIR$/lib/client_api.rb" />
+        <option value="$PROJECT_DIR$/lib/client_api/api.rb" />
+        <option value="$PROJECT_DIR$/spec/client_api/api_spec.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="66" />
+    <option name="y" value="34" />
+    <option name="width" value="1854" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixtures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../claims_express" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/client_api" />
+      <recent name="$PROJECT_DIR$/spec/fixtures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="RSpec.api_spec">
+    <configuration default="false" name="test_get_..." type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="client_api" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$/test/integration" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/test/integration/client_api_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_get_..." />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientApiTest" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="client_api" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$/test/integration" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/test/integration/client_api_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientApi::Api get different types of information from server" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="client_api" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/client_api/api_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="ClientApi::Api get different types of information from server" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientApi::Api get different types of information from server obtains the document of the given document id" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="client_api" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/client_api/api_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="ClientApi::Api get different types of information from server obtains the document of the given document id" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="api_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="client_api" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/client_api/api_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_get_..." />
+      <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.ClientApiTest" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.ClientApi::Api get different types of information from server" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.ClientApi::Api get different types of information from server obtains the document of the given document id" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.api_spec" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="RSpec.api_spec" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.api_spec" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.api_spec" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.api_spec" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.api_spec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b00ba618-f577-4532-a6a1-ba3d9f4dd95e" name="Default" comment="" />
+      <created>1381290383415</created>
+      <updated>1381290383415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="34" width="1854" height="1056" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15260822" sideWeight="0.7091892" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14927858" sideWeight="0.7091892" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31351352" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29081082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/client_api/api.rb</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/lib/client_api/api.rb</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/webmock-1.15.0/lib/webmock/rspec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/client_api/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="19" selection-end="26" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/faraday-0.8.8/lib/faraday/builder.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="0" selection-start="1978" selection-end="1978" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@global/gems/bundler-1.2.2/lib/bundler/rubygems_integration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="0" selection-start="2839" selection-end="2839" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/webmock-1.15.0/lib/webmock/http_lib_adapters/net_http.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="47" selection-start="4064" selection-end="4064" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/doc_object.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="22" selection-start="232" selection-end="398" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="3" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/faraday-0.8.8/lib/faraday/connection.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/faraday-0.8.8/lib/faraday/middleware.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="69" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="42" selection-start="1015" selection-end="1015" vertical-scroll-proportion="7.225806">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/client_api/api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="32" selection-start="1608" selection-end="1608" vertical-scroll-proportion="-0.9677419">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/client_api/api_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="40" selection-start="2017" selection-end="2017" vertical-scroll-proportion="2.173913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_api.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="35" selection-start="244" selection-end="244" vertical-scroll-proportion="0.30612245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
