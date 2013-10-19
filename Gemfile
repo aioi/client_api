@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 #gem "faraday", "~> 0.8.8"
 gem "faraday_middleware", "~> 0.9.0"
+gem 'activesupport' ,'~> 3.2'
 
 #gem 'ffi-ncurses', '~> 0.3', :platforms => :jruby
 #gem 'jruby-openssl', '~> 0.8.8', :platforms => :jruby
