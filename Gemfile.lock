@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     client_api (0.0.0)
-      activesupport
+      activesupport (~> 3.2)
       faraday_middleware (~> 0.9.0)
       json
       multi_xml
@@ -11,8 +11,8 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (3.2.12)
-      i18n (~> 0.6)
+    activesupport (3.2.13)
+      i18n (= 0.6.1)
       multi_json (~> 1.0)
     addressable (2.3.5)
     crack (0.4.1)
@@ -21,9 +21,9 @@ GEM
       multipart-post (~> 1.2.0)
     faraday_middleware (0.9.0)
       faraday (>= 0.7.4, < 0.9)
-    i18n (0.6.2)
-    json (1.7.7)
-    multi_json (1.6.1)
+    i18n (0.6.1)
+    json (1.8.0)
+    multi_json (1.7.7)
     multi_xml (0.5.4)
     multipart-post (1.2.0)
     net-http-persistent (2.9)
