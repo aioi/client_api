@@ -27,13 +27,13 @@ Gem::Specification.new do |spec|
 
   spec.require_paths = ["lib"]
 
-  spec.add_dependency 'faraday_middleware', '~> 0.9.0'
-  spec.add_dependency 'net-http-persistent'
-  spec.add_dependency 'activesupport' ,'~> 3.2'
-  spec.add_dependency "json"
-  spec.add_dependency "multi_xml"
-  #spec.add_runtime_dependency 'faraday_middleware', '~> 0.9.0'
+  #spec.add_runtime_dependency 'faraday_middleware', '~> 0.7.0'
   #spec.add_runtime_dependency 'net-http-persistent'
+  #spec.add_dependency 'activesupport' ,'~> 3.2'
+  spec.add_runtime_dependency "json"
+  spec.add_runtime_dependency "multi_xml"
+  spec.add_runtime_dependency 'faraday_middleware', '~> 0.9.0'
+  spec.add_runtime_dependency 'net-http-persistent'
 
   spec.add_development_dependency 'bundler', '~> 1.0'
   spec.add_development_dependency 'rspec', '~> 1.3'

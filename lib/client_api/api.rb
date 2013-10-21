@@ -1,7 +1,11 @@
+require 'rubygems'
+require 'faraday_middleware'
+
 module ClientApi
 
   class Api
     #attr_accessor :app_name, :http_adapter, :target_url
+    #autoload :FaradayMiddleware, 'faraday_middleware'
 
     def initialize(options={})
       @server_uri = options[:server_uri]
@@ -36,6 +40,27 @@ module ClientApi
 
     private
 
+    #def connect
+    #  @api_conn = Faraday.new(@server_uri) do |conn|
+    #    #conn.use ::Faraday::OAuth2, @auth_token
+    #    #conn.use FaradayMiddleware::EncodeJson
+    #    #
+    #    #conn.use FaradayMiddleware::ParseXml,  :content_type => /\bxml$/
+    #    #conn.use FaradayMiddleware::ParseJson, :content_type => /\bjson$/
+    #    #
+    #    #conn.use FaradayMiddleware::Instrumentation
+    #
+    #
+    #    # keep http connection alive for the multiple requests
+    #    # the connection will be reset (closed-reconnected) after the connection is idle for
+    #    # the number of seconds defined in idle_timeout, 5 seconds by default, nil=> no timeout (no reset)
+    #    #conn.adapter :net_http_persistent do |http|
+    #    #  http.idle_timeout = 10
+    #    #end
+    #    conn.adapter Faraday.default_adapter
+    #  end
+    #end
+
     def connect
       @api_conn = Faraday.new(@server_uri) do |conn|
         conn.request :oauth2, @auth_token
@@ -44,7 +69,7 @@ module ClientApi
         conn.response :xml,  :content_type => /\bxml$/
         conn.response :json, :content_type => /\bjson$/
 
-        conn.use :instrumentation
+        #conn.use :instrumentation
 
 
         # keep http connection alive for the multiple requests
