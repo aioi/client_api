@@ -47,8 +47,6 @@ describe ClientApi::Api do
       res = req_api.get(1)
       res[:id].should == 1
 
-
-
     end
 
 

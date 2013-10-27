@@ -40,27 +40,6 @@ module ClientApi
 
     private
 
-    #def connect
-    #  @api_conn = Faraday.new(@server_uri) do |conn|
-    #    #conn.use ::Faraday::OAuth2, @auth_token
-    #    #conn.use FaradayMiddleware::EncodeJson
-    #    #
-    #    #conn.use FaradayMiddleware::ParseXml,  :content_type => /\bxml$/
-    #    #conn.use FaradayMiddleware::ParseJson, :content_type => /\bjson$/
-    #    #
-    #    #conn.use FaradayMiddleware::Instrumentation
-    #
-    #
-    #    # keep http connection alive for the multiple requests
-    #    # the connection will be reset (closed-reconnected) after the connection is idle for
-    #    # the number of seconds defined in idle_timeout, 5 seconds by default, nil=> no timeout (no reset)
-    #    #conn.adapter :net_http_persistent do |http|
-    #    #  http.idle_timeout = 10
-    #    #end
-    #    conn.adapter Faraday.default_adapter
-    #  end
-    #end
-
     def connect
       @api_conn = Faraday.new(@server_uri) do |conn|
         conn.request :oauth2, @auth_token
