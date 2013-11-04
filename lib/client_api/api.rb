@@ -38,6 +38,10 @@ module ClientApi
       response = request(:post, "#{@target_path}", options)
     end
 
+    def put(id, options={})
+      response = request(:put, "#{@target_path}/#{id}", options)
+    end
+
     private
 
     def connect

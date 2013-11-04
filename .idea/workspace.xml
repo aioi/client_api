@@ -28,35 +28,35 @@
     <ignored path="client_api.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/client_api.gemspec" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382314516175" ignored="false" />
-    <file path="/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382679442023" ignored="false" />
-    <file path="/fragment.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382915762176" ignored="false" />
+    <file path="/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383534893686" ignored="false" />
+    <file path="/fragment.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383535247936" ignored="false" />
     <file path="$PROJECT_DIR$/../client_app/api_ext.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382319344025" ignored="false" />
     <file path="/api_ext.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382319239246" ignored="false" />
     <file path="/api_spec.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382680716817" ignored="false" />
-    <file path="/client_api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382319845250" ignored="false" />
+    <file path="/client_api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383534908307" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/Gemfile.lock" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382668778417" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/models/courier/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382679373716" ignored="false" />
-    <file path="/a.dummy" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382665424444" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/Gemfile" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382668772775" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/views/task/standard_letter.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382501795659" ignored="false" />
-    <file path="/standard_letter.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382501795659" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/controllers/tasks/standard_letter_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382915549491" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/public/javascripts/active_scaffold/default/dhtml_history.js" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382335812687" ignored="false" />
-    <file path="/_upload.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382581203657" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/views/task/_upload.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382581346127" ignored="false" />
+    <file path="/a.dummy" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383103389550" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/Gemfile" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383536478682" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/task/standard_letter.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383086180052" ignored="false" />
+    <file path="/standard_letter.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382940127383" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/controllers/tasks/standard_letter_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383103598829" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/public/javascripts/active_scaffold/default/dhtml_history.js" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382936234784" ignored="false" />
+    <file path="/_upload.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383100416982" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/task/_upload.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383100416982" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/views/task/_upload_letter_types.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382333760979" ignored="false" />
     <file path="/_upload_letter_types.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382333761275" ignored="false" />
-    <file path="$PROJECT_DIR$/../client_app/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382676074872" ignored="false" />
-    <file path="/Dummy.txt" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382914850328" ignored="false" />
-    <file path="/standard_letter_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382915549491" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/models/tasks/standard_letter_task.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382496107718" ignored="false" />
-    <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.task_details" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382498917977" ignored="false" />
+    <file path="$PROJECT_DIR$/../client_app/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383534561818" ignored="false" />
+    <file path="/Dummy.txt" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383103679423" ignored="false" />
+    <file path="/standard_letter_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383100850624" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/tasks/standard_letter_task.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382933235030" ignored="false" />
+    <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.task_details" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382926483476" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/spec/spec_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382507331552" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/config/routes.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382507331552" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/models/document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529891" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/Gemfile" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382915473310" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/general_contact_letters/insd_closing_file.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382507638341" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/models/document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383525458765" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/Gemfile" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383524204769" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/general_contact_letters/insd_closing_file.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383525426614" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/coverage/index.html" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382914703675" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/spec/requests/api_spec.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382915473310" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/helpers/documents_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
@@ -149,8 +149,8 @@
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/letter_template_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382589802496" ignored="false" />
     <file path="/letter_template_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590376729" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/letter_template/letter_template_claims.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382580409831" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/public/javascripts/application.js" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382582263392" ignored="false" />
-    <file path="/application.js" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382582208767" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/public/javascripts/application.js" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383104187777" ignored="false" />
+    <file path="/application.js" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383103989488" ignored="false" />
     <file path="/database.yml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382582508661" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/config/database.yml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382582508661" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/.idea/dataSources.xml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382582740445" ignored="false" />
@@ -208,8 +208,8 @@
     <file path="$PROJECT_DIR$/../courier/app/models/documents/customer_services/endorsement_additional_premium/updated_disclosure_responses_additional_premium_required_annual.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529891" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/customer_services/endorsement_additional_premium/updated_disclosure_responses_additional_premium_required_monthly.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529891" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/customer_services/letter_template_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590469969" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/api/documents/apiv1.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382915473310" ignored="false" />
-    <file path="/apiv1.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382914289634" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/api/documents/apiv1.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383536091211" ignored="false" />
+    <file path="/apiv1.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383536049528" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/letter_template_claims_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590376729" ignored="false" />
     <file path="/temp.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590325517" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/db/migrate/20131024045204_rename_claims_letter_template_document_to_letter_template_claims_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590325517" ignored="false" />
@@ -435,6 +435,25 @@
     <file path="/20131025021532_add_courier_token_to_user.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382667427333" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/db/schema.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382667718562" ignored="false" />
     <file path="$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/bundler/gems/client_api-1f8fdffd78be/lib/client_api/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382674254015" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/task/_task_submit_draft.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382917525872" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/helpers/task_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382917508434" ignored="false" />
+    <file path="/task_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382917507578" ignored="false" />
+    <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.uploads" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382920357849" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/helpers/claim_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382930187445" ignored="false" />
+    <file path="/claim_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382925136329" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/upload.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095081332" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/controllers/task_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383088050654" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/claim/_tabs.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383087438411" ignored="false" />
+    <file path="/_tabs.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383087411918" ignored="false" />
+    <file path="/upload.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095080413" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/claim/_documents.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095194392" ignored="false" />
+    <file path="/_documents.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383094843061" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/claim/_file.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095592917" ignored="false" />
+    <file path="/_file.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095533459" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/log/development.log" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095761805" ignored="false" />
+    <file path="dbtable:/a90ff654/8da9fa78-3e88-4e97-b5fb-774422d82229/courier_development.dbo.users" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383522693398" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/admin/documents.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383535851957" ignored="false" />
+    <file path="/documents.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383535721856" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -453,7 +472,7 @@
     <favorites_list name="client_api" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5361891">
+    <splitter split-orientation="vertical" split-proportion="0.47675675">
       <split-first>
         <leaf>
           <file leaf-file-name="api_spec.rb" pinned="false" current="false" current-in-tab="false">
@@ -465,10 +484,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="api.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="api.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/client_api/api.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="77" column="14" selection-start="2350" selection-end="2350" vertical-scroll-proportion="1.0391567">
+                <state line="54" column="34" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.9878049">
                   <folding />
                 </state>
               </provider>
@@ -526,25 +545,25 @@
           <file leaf-file-name="api_spec.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spec/client_api/api_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="45" column="43" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.0">
+                <state line="11" column="37" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="client_api.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="61" column="27" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Gemfile">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.16245487">
+                <state line="3" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="client_api.rb" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="39" column="0" selection-start="878" selection-end="878" vertical-scroll-proportion="-0.35794184">
                   <folding />
                 </state>
               </provider>
@@ -562,11 +581,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/client_api.rb" />
         <option value="$PROJECT_DIR$/spec/client_api/api_spec.rb" />
-        <option value="$PROJECT_DIR$/lib/client_api/api.rb" />
         <option value="$PROJECT_DIR$/client_api.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/lib/client_api/api.rb" />
+        <option value="$PROJECT_DIR$/lib/client_api.rb" />
       </list>
     </option>
   </component>
@@ -602,7 +621,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -657,13 +675,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../client_app" />
   </component>
   <component name="RunManager" selected="RSpec.api_spec">
     <configuration default="false" name="api_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
@@ -760,12 +794,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22018857" sideWeight="0.7318919" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1780366" sideWeight="0.7318919" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49513513" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2681081" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2681081" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -838,7 +872,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="ruby-line">
           <url>file://$PROJECT_DIR$/lib/client_api.rb</url>
-          <line>68</line>
+          <line>71</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="ruby-line">
@@ -916,13 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="27" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client_api.gemspec">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="916" selection-end="916" vertical-scroll-proportion="0.0">
@@ -930,23 +957,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/client_api/api_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="43" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.0">
+        <state line="44" column="7" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="878" selection-end="878" vertical-scroll-proportion="-0.35794184">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/client_api/api.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="14" selection-start="2350" selection-end="2350" vertical-scroll-proportion="1.0391567">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.16245487">
+        <state line="54" column="34" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.9878049">
           <folding />
         </state>
       </provider>

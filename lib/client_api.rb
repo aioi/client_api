@@ -62,6 +62,9 @@ module ClientApi
       connect.post(options)
     end
 
+    def update(id, options={})
+      connect.put(id, options)
+    end
 
     private
 
