@@ -28,39 +28,39 @@
     <ignored path="client_api.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/client_api.gemspec" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382314516175" ignored="false" />
-    <file path="/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383534893686" ignored="false" />
-    <file path="/fragment.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383535247936" ignored="false" />
+    <file path="/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383780119063" ignored="false" />
+    <file path="/fragment.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383779437099" ignored="false" />
     <file path="$PROJECT_DIR$/../client_app/api_ext.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382319344025" ignored="false" />
     <file path="/api_ext.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382319239246" ignored="false" />
-    <file path="/api_spec.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382680716817" ignored="false" />
-    <file path="/client_api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383534908307" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/Gemfile.lock" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382668778417" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/models/courier/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382679373716" ignored="false" />
-    <file path="/a.dummy" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383103389550" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/Gemfile" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383536478682" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/views/task/standard_letter.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383086180052" ignored="false" />
+    <file path="/api_spec.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383717500632" ignored="false" />
+    <file path="/client_api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383696869709" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/Gemfile.lock" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383784386728" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/courier/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785168190" ignored="false" />
+    <file path="/a.dummy" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777508294" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/Gemfile" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785211415" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/views/task/standard_letter.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785168190" ignored="false" />
     <file path="/standard_letter.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382940127383" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/controllers/tasks/standard_letter_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383103598829" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/controllers/tasks/standard_letter_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785168190" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/public/javascripts/active_scaffold/default/dhtml_history.js" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382936234784" ignored="false" />
     <file path="/_upload.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383100416982" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/views/task/_upload.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383100416982" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/views/task/_upload_letter_types.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382333760979" ignored="false" />
     <file path="/_upload_letter_types.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382333761275" ignored="false" />
-    <file path="$PROJECT_DIR$/../client_app/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383534561818" ignored="false" />
-    <file path="/Dummy.txt" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383103679423" ignored="false" />
-    <file path="/standard_letter_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383100850624" ignored="false" />
+    <file path="$PROJECT_DIR$/../client_app/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383780134524" ignored="false" />
+    <file path="/Dummy.txt" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787043322" ignored="false" />
+    <file path="/standard_letter_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383717678278" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/models/tasks/standard_letter_task.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382933235030" ignored="false" />
     <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.task_details" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382926483476" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/spec/spec_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382507331552" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/config/routes.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/models/documents/claims_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382507331552" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/models/document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383525458765" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/Gemfile" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383524204769" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/models/documents/claims_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/models/document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/Gemfile" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383786549186" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/general_contact_letters/insd_closing_file.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383525426614" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/coverage/index.html" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382914703675" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/spec/requests/api_spec.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382915473310" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/helpers/documents_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="/documents_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382658733887" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/spec/requests/api_spec.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/helpers/documents_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="/documents_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777232678" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/excess_letters/insd_excess_request.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382576058219" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/excess_letters/insd_excess_request_follow_up.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382576347189" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/excess_letters/insd_excess_request_tp_demands_receieved.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382576352026" ignored="false" />
@@ -208,8 +208,8 @@
     <file path="$PROJECT_DIR$/../courier/app/models/documents/customer_services/endorsement_additional_premium/updated_disclosure_responses_additional_premium_required_annual.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529891" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/customer_services/endorsement_additional_premium/updated_disclosure_responses_additional_premium_required_monthly.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529891" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/customer_services/letter_template_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590469969" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/api/documents/apiv1.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383536091211" ignored="false" />
-    <file path="/apiv1.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383536049528" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/api/documents/apiv1.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="/apiv1.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383779929616" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/models/documents/claims/letter_template_claims_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590376729" ignored="false" />
     <file path="/temp.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590325517" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/db/migrate/20131024045204_rename_claims_letter_template_document_to_letter_template_claims_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382590325517" ignored="false" />
@@ -282,74 +282,74 @@
     <file path="$PROJECT_DIR$/../courier/spec/api_spec_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529891" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/Gemfile.lock" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382915473310" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/_form.html.erb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529891" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_total_loss_settlement_finance_paid_out_in_full.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_settlement_lettets/_tp_repair_cash_settlement.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_replacement_no_deductions_continuation_of_insurance.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_wa_police_report_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_no_information_close_claim.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_second_month_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_request_contact.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_contact_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_reviewing_claim_forms.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_total_loss_settlement_finance_paid_out_in_full.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_settlement_lettets/_tp_repair_cash_settlement.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_replacement_no_deductions_continuation_of_insurance.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_wa_police_report_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_no_information_close_claim.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_second_month_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_request_contact.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_contact_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_reviewing_claim_forms.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/excess_letters/_insd_excess_request_follow_up.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_payment_without_admission_of_liability.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_payment_without_admission_of_liability.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_replacement_authority_dealer.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_initial_lodgement_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/investigation_instruction_sheet/_investigation_instruction_sheet.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_comment_tp_v_and_d.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_excess_applies_insufficient_tp_details.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_gap_settlement_extra_costs_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/denial_template_letter/_denial_template_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_non_monthly_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_request_seperation_certificate_and_centrelink_documents.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_follow_up_repairs_seven_days_close_file.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_gap_settlement_extra_costs_letter_two.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_all_three_months_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/excess_letters/_insd_final_excess_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_total_loss_settlement_no_deductions.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_returned_to_work_unemployment_claim.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/settlement_letters/_insd_insd_request_repair_cash_settlement.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_excess_instalment_approved.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_claim_withdrawn.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_excess_applies_conflicting_versions.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_v_and_d_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_financial_hardship_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_contact_lettets/_tp_accident_description_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_notification_we_are_applying_for_medical_report.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_replacement_costs_to_insured.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_file_to_rcl.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_file_to_our_solicitor.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_follow_up_quote_seven_days_close_file.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_contact_lettets/_tp_initial_contact_letter_liability_admitted.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/excess_letters/_insd_excess_request_tp_demands_receieved.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_first_and_second_month_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_able_to_carry_out_an_occupation_after_twelve_months_deny_further_coverage.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_follow_up_repairs.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_settlement_lettets/_tp_vehicle_repairable_liability_denied.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_closing_file.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_request_for_medical_report.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_comment_tp_v_and_d.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777665473" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_excess_applies_insufficient_tp_details.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_gap_settlement_extra_costs_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/denial_template_letter/_denial_template_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_non_monthly_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_request_seperation_certificate_and_centrelink_documents.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_follow_up_repairs_seven_days_close_file.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_gap_settlement_extra_costs_letter_two.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_all_three_months_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/excess_letters/_insd_final_excess_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_total_loss_settlement_no_deductions.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_returned_to_work_unemployment_claim.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/settlement_letters/_insd_insd_request_repair_cash_settlement.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_excess_instalment_approved.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_claim_withdrawn.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_excess_applies_conflicting_versions.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_v_and_d_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_financial_hardship_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_contact_lettets/_tp_accident_description_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_notification_we_are_applying_for_medical_report.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_replacement_costs_to_insured.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_file_to_rcl.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_file_to_our_solicitor.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_follow_up_quote_seven_days_close_file.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_contact_lettets/_tp_initial_contact_letter_liability_admitted.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383783880295" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/excess_letters/_insd_excess_request_tp_demands_receieved.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_first_and_second_month_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_able_to_carry_out_an_occupation_after_twelve_months_deny_further_coverage.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_follow_up_repairs.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_settlement_lettets/_tp_vehicle_repairable_liability_denied.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_closing_file.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383691685094" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_request_for_medical_report.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_total_loss_settlement_no_deductions_continuation_of_insurance.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_contact_lettets/_tp_letter_of_demand.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_settlement_lettets/_tp_total_loss_liability_denied.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_contact_lettets/_tp_letter_of_demand.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383783880295" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_settlement_lettets/_tp_total_loss_liability_denied.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383783880295" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_extra_costs_letter_for_gap_claim.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_first_month_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/settlement_letters/_insd_our_choice_repair_cash_settlement.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_sa_police_report_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/witness_statement_request/_witness_statement_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_medical_sign_release.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_wa_sign_release_alcohol_reading.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_denial.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_third_month_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/excess_letters/_insd_excess_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_first_month_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/settlement_letters/_insd_our_choice_repair_cash_settlement.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_sa_police_report_letter.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/witness_statement_request/_witness_statement_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383783880295" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_medical_sign_release.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777673857" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/contact_require_further_information/_insd_wa_sign_release_alcohol_reading.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_denial.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_unemployment_claim_third_month_payment.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/excess_letters/_insd_excess_request.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_at_fault_total_loss_settlement.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_medically_cleared_to_work.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_legal_proceedings_may_be_issued.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_payment_advice_injury_and_illness.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_final_payment_policy_ends.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_request_medicare_information.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_medically_cleared_to_work.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/general_contact_letters/_insd_legal_proceedings_may_be_issued.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_payment_advice_injury_and_illness.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_final_payment_policy_ends.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_request_medicare_information.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/third_party_settlement_lettets/_tp_total_loss_settlement.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_info_re_unemployment_claim.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_total_loss_settlement_finance_not_paid_out_in_full.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/ppi_letters/_ppi_info_re_unemployment_claim.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/total_loss_letters/_total_loss_settlement_finance_not_paid_out_in_full.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777562644" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/policy_administration/letter_template_policy_administration/_letter_template_policy_administration.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/letter_template_customer_services/_letter_template_customer_services.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/claims/letter_template_claims/_letter_template_claims.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529892" ignored="false" />
@@ -374,7 +374,7 @@
     <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/modifications/_disclosed_modifications_and_decline_renewal.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529896" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/cancellation_refunds/_refund_by_cheque.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529896" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/policy_continuation/_expired_cash_settlement_offer_annual_or_direct_debit_policy.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529896" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/vehicle_usage/_change_of_vehicle_usage_to_courier.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529896" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/vehicle_usage/_change_of_vehicle_usage_to_courier.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383777676310" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/endorsement_refunds/_endorsement_refund_by_cheque.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529896" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/payment_summary_breakdown/_payment_summary_breakdown.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529896" ignored="false" />
     <file path="$PROJECT_DIR$/../courier/app/views/documents/customer_services/cancellation_refunds/_direct_debit_nil_refund.haml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382662529896" ignored="false" />
@@ -433,7 +433,7 @@
     <file path="/production.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382665730475" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/db/migrate/20131025021532_add_courier_token_to_user.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382667433275" ignored="false" />
     <file path="/20131025021532_add_courier_token_to_user.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382667427333" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/db/schema.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382667718562" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/db/schema.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785168190" ignored="false" />
     <file path="$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/bundler/gems/client_api-1f8fdffd78be/lib/client_api/api.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382674254015" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/views/task/_task_submit_draft.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382917525872" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/helpers/task_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382917508434" ignored="false" />
@@ -441,8 +441,8 @@
     <file path="dbtable:/96c5cce1/ef04c0e2-2c76-46e1-8ef3-a09e7cc6e98a/claims_express_development.dbo.uploads" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382920357849" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/helpers/claim_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382930187445" ignored="false" />
     <file path="/claim_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1382925136329" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/models/upload.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095081332" ignored="false" />
-    <file path="$PROJECT_DIR$/../claims_express/app/controllers/task_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383088050654" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/upload.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785168190" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/controllers/task_controller.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785168190" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/app/views/claim/_tabs.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383087438411" ignored="false" />
     <file path="/_tabs.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383087411918" ignored="false" />
     <file path="/upload.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095080413" ignored="false" />
@@ -451,9 +451,21 @@
     <file path="$PROJECT_DIR$/../claims_express/app/views/claim/_file.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095592917" ignored="false" />
     <file path="/_file.rhtml" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095533459" ignored="false" />
     <file path="$PROJECT_DIR$/../claims_express/log/development.log" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383095761805" ignored="false" />
-    <file path="dbtable:/a90ff654/8da9fa78-3e88-4e97-b5fb-774422d82229/courier_development.dbo.users" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383522693398" ignored="false" />
-    <file path="$PROJECT_DIR$/../courier/app/admin/documents.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383535851957" ignored="false" />
-    <file path="/documents.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383535721856" ignored="false" />
+    <file path="dbtable:/a90ff654/8da9fa78-3e88-4e97-b5fb-774422d82229/courier_development.dbo.users" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383695432367" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/admin/documents.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="/documents.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383779657787" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/courier/data_presenter.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785168190" ignored="false" />
+    <file path="/data_presenter.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383783324688" ignored="false" />
+    <file path="/document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383783471325" ignored="false" />
+    <file path="dbtable:/a90ff654/8da9fa78-3e88-4e97-b5fb-774422d82229/courier_development.dbo.documents" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383691575857" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/api/helpers/api_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="/api_helper.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383693392510" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/app/models/policy_express/policy.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383714085890" ignored="false" />
+    <file path="/*.regexp" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383783800452" ignored="false" />
+    <file path="/claims_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383781656817" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/models/documents/customer_services_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="$PROJECT_DIR$/../courier/app/models/documents/policy_administration_document.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383787264890" ignored="false" />
+    <file path="$PROJECT_DIR$/../claims_express/lib/constants.rb" changelist="14b2973b-55f6-45e9-b786-033efe8b5291" time="1383785168190" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -472,7 +484,7 @@
     <favorites_list name="client_api" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.47675675">
+    <splitter split-orientation="vertical" split-proportion="0.4908108">
       <split-first>
         <leaf>
           <file leaf-file-name="api_spec.rb" pinned="false" current="false" current-in-tab="false">
@@ -484,10 +496,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="api.rb" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="api.rb" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/client_api/api.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="54" column="34" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.9878049">
+                <state line="43" column="0" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.6879433">
                   <folding />
                 </state>
               </provider>
@@ -497,15 +509,6 @@
             <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p371@cxp/gems/faraday-0.7.6/lib/faraday/builder.rb">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="12" column="7" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="16" column="21" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -538,6 +541,15 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="16" column="21" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
@@ -560,10 +572,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="client_api.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="client_api.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="39" column="0" selection-start="878" selection-end="878" vertical-scroll-proportion="-0.35794184">
+                <state line="65" column="27" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.7258065">
                   <folding />
                 </state>
               </provider>
@@ -584,14 +596,14 @@
         <option value="$PROJECT_DIR$/spec/client_api/api_spec.rb" />
         <option value="$PROJECT_DIR$/client_api.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/lib/client_api/api.rb" />
         <option value="$PROJECT_DIR$/lib/client_api.rb" />
+        <option value="$PROJECT_DIR$/lib/client_api/api.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="24" />
+    <option name="x" value="43" />
+    <option name="y" value="34" />
     <option name="width" value="1855" />
     <option name="height" value="1056" />
   </component>
@@ -621,6 +633,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -691,7 +704,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -787,14 +799,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="24" width="1855" height="1056" extended-state="0" />
+    <frame x="43" y="34" width="1855" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1780366" sideWeight="0.7318919" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18025513" sideWeight="0.7318919" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49513513" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -869,18 +881,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/lib/client_api.rb</url>
-          <line>71</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/lib/client_api.rb</url>
-          <line>49</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="9" />
     </breakpoint-manager>
   </component>
@@ -966,21 +966,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/client_api/api_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="7" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="878" selection-end="878" vertical-scroll-proportion="-0.35794184">
+        <state line="11" column="37" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/client_api/api.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="34" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.9878049">
+        <state line="43" column="0" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.6879433">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/client_api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="27" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.7258065">
           <folding />
         </state>
       </provider>

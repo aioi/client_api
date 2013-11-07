@@ -58,6 +58,10 @@ module ClientApi
       connect.get_data_fields(path, options)
     end
 
+    def get_all_data_fields(path, options={})
+      connect.get_all_data_fields(path, options)
+    end
+
     def post(options={})
       connect.post(options)
     end

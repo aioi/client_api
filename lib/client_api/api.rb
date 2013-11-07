@@ -34,6 +34,10 @@ module ClientApi
       response = request(:get, "#{@target_path}/#{path}/#{__method__}?type=#{options[:type]}", options)
     end
 
+    def get_all_data_fields(path, options={})
+      response = request(:get, "#{@target_path}/#{path}/#{__method__}", options)
+    end
+
     def post(options={})
       response = request(:post, "#{@target_path}", options)
     end
