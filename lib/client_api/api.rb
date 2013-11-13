@@ -39,6 +39,7 @@ module ClientApi
     end
 
     def post(options={})
+      puts "post options: #{options.inspect}"
       response = request(:post, "#{@target_path}", options)
     end
 
@@ -56,16 +57,19 @@ module ClientApi
         conn.response :xml,  :content_type => /\bxml$/
         conn.response :json, :content_type => /\bjson$/
 
+        conn.request :multipart
+        conn.request :url_encoded
+
         #conn.use :instrumentation
 
 
         # keep http connection alive for the multiple requests
         # the connection will be reset (closed-reconnected) after the connection is idle for
         # the number of seconds defined in idle_timeout, 5 seconds by default, nil=> no timeout (no reset)
-        conn.adapter :net_http_persistent do |http|
-          http.idle_timeout = 10
-        end
-        #conn.adapter Faraday.default_adapter
+        #conn.adapter :net_http_persistent do |http|
+          #http.idle_timeout = 10
+        #end
+        conn.adapter :net_http
       end
     end
 
