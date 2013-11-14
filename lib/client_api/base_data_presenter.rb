@@ -15,6 +15,8 @@ module ClientApi
     # @note Courier's 'rake app:generate_document_models' task can generate this
     #       list for you based on the document templates!
     FIELD_LIST = [
+      :address_line1,
+      :address_line2,
       :aioi_account_number,
       :aioi_bank,
       :aioi_bsb,
@@ -60,6 +62,7 @@ module ClientApi
       :financier_name,
       :free_text_date,
       :from_name,
+      :given_names,
       :illness_date,
       :incept_date,
       :injury_date,
@@ -125,7 +128,7 @@ module ClientApi
       :vehicle_rego,
       :vehicle_year,
       :vin,
-      :work_date
+      :work_date,
     ]
 
     FIELD_LIST.each do |field|
