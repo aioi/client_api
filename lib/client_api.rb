@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'faraday_middleware'
 require 'client_api/api'
+require 'client_api/base_data_presenter'
 
 module ClientApi
 
