@@ -10,17 +10,14 @@ module ClientApi
     def initialize(options={})
       @server_uri = options[:server_uri]
       @auth_token = options[:auth_token]
+      @api_path = options[:api_path]
       @api_ver = options[:api_ver]
       @app_obj = options[:app_obj]
-      @target_path = "#{@api_ver}/#{@app_obj}"
+      @server_url = File.join(@server_uri, @api_path)
+      @target_path = File.join(@api_ver, @app_obj)
 
       connect
     end
-
-    #def get(id)
-    #  response = @api_conn.get "#{@api_ver}/#{@end_obj}/#{id}"
-    #  puts "get:  #{response.inspect}"
-    #  end
 
     def get(id, options={})
       response = request(:get, "#{@target_path}/#{id}", options)
@@ -39,7 +36,6 @@ module ClientApi
     end
 
     def post(options={})
-      puts "post options: #{options.inspect}"
       response = request(:post, "#{@target_path}", options)
     end
 
@@ -50,7 +46,7 @@ module ClientApi
     private
 
     def connect
-      @api_conn = Faraday.new(@server_uri) do |conn|
+      @api_conn = Faraday.new(@server_url) do |conn|
         conn.request :oauth2, @auth_token
         conn.request :json
 
@@ -74,21 +70,14 @@ module ClientApi
     end
 
     def request(action, path, options)
-      #check_login_status if options[:require_auth]
-      #headers = auth_token ? { 'AUTHORIZATION' => auth_token } : {}
       headers = {}
       headers.merge!(options[:headers]) if options[:headers]
 
       response = @api_conn.send(action, path) do |request|
         request.body = options[:body] if options[:body]
-        #puts "request: #{request.inspect}"
-        #puts ""
         request.headers = headers unless headers.empty?
       end
 
-      #puts "raw response of response:  #{response.inspect}"
-      #puts ""
-      #puts "response status:  #{response.status}"
       response.body
     end
   end

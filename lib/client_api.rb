@@ -5,17 +5,6 @@ require 'client_api/base_data_presenter'
 
 module ClientApi
 
-  #SERVER_URL = 'http://localhost:3000/api'
-  #SERVER_API_VER = 'v1'
-  #SERVER_END_OBJ = 'documents'
-  #AUTH_TOKEN = 'jPKvkgHGm9Q3yZcsVbzM'
-
-  class WhoIs
-    def self.test
-      puts "Hello there !!"
-    end
-  end
-
   def self.included(base)
     base.extend ClassMethods
     #base.send :include, HTTParty::ModuleInheritableAttributes
@@ -33,6 +22,10 @@ module ClientApi
 
     def server_uri(uri=nil)
       default_options[:server_uri] = uri
+    end
+
+    def api_path(path)
+      default_options[:api_path] = path
     end
 
     def api_ver(ver)
@@ -69,6 +62,10 @@ module ClientApi
 
     def update(id, options={})
       connect.put(id, options)
+    end
+
+    def get_url_for_document(id)
+      File.join(@default_options[:server_uri], File.join(@default_options[:app_obj], "#{id}"))
     end
 
     private
